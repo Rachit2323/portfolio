@@ -20,6 +20,11 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import polygon from "./tech/polygon.png";
 
+import linkedin from "./linkedin.png";
+import gmail from "./gmail.jpeg";
+import githublogo from "./githublogo.png";
+import x from "./x.png";
+
 import solidity from "./tech/solidity.svg";
 import blockchain from "./tech/blockchain.webp";
 import anchors from "./company/anchors.jpeg";
@@ -57,7 +62,11 @@ export {
   anchors,
   systaldyn,
   clinical,
-  Live
+  Live,
+  linkedin,
+  gmail,
+  githublogo,
+  x
 
 
 };

@@ -15,13 +15,16 @@ import {
   systaldyn,
   anchors,
   clinical,
- 
   solidity,
   blockchain,
   polygon,
   receipe,
   instaclone,
   dappchat,
+  x,
+  gmail,
+  githublogo,
+  linkedin,
 } from "../assets";
 
 export const navLinks = [
@@ -179,7 +182,7 @@ const projects = [
   {
     name: "Social Media App",
     description:
-    "A full-stack application where users can upload posts with captions, like, comment, and save the posts. Complete authentication is implemented end-to-end, enabling users to edit their profiles and reset their passwords.",
+      "A full-stack application where users can upload posts with captions, like, comment, and save the posts. Complete authentication is implemented end-to-end, enabling users to edit their profiles and reset their passwords.",
     tags: [
       {
         name: "react",
@@ -199,7 +202,7 @@ const projects = [
       },
     ],
     image: instaclone,
-   live_link:"https://charming-belekoy-1d7e17.netlify.app/",
+    live_link: "https://charming-belekoy-1d7e17.netlify.app/",
     source_code_link: "https://github.com/Rachit2323/Startup",
   },
   {
@@ -221,13 +224,13 @@ const projects = [
       },
     ],
     image: dappchat,
-    live_link:"https://fancy-gnome-3504f4.netlify.app/",
+    live_link: "https://fancy-gnome-3504f4.netlify.app/",
     source_code_link: "https://github.com/Rachit2323/React_Dapp",
   },
   {
     name: "Food Receipe",
     description:
-      "You have the flexibility to contribute your own recipes, complete with  steps and  photos, ensuring a comprehensive culinary experience. Additionally, this platform empowers you to enhance existing recipes by offering the option to edit and refine them according to your preferences, fostering a collaborative and dynamic cooking community.",
+      "You have the flexibility to contribute your own recipes, complete with  steps and  photos, ensuring a comprehensive culinary experience. Additionally, this platform empowers you to enhance existing recipes by offering the option to edit and refine them according to your preferences.",
     tags: [
       {
         name: "react",
@@ -243,7 +246,7 @@ const projects = [
       },
     ],
     image: receipe,
-    live_link:"https://food-receipe-g6mi.vercel.app/",
+    live_link: "https://food-receipe-g6mi.vercel.app/",
     source_code_link: "https://github.com/Rachit2323/Food_Receipe",
   },
 ];
